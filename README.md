@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 
 ![Screenshot (59)](Profile.jpeg)
 
-![Screenshot (57)](Home.jpeg)
+![Screenshot (57)](home.jpeg)
 
 ![Screenshot (58)](Search.jpeg)
 
