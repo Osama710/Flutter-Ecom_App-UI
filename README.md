@@ -6,11 +6,11 @@ FLUTTER Ecommerce UI
 
 This project is a starting point for a Flutter application.
 
-![Screenshot (59)](https://user-images.githubusercontent.com/45971568/120926087-5646c180-c690-11eb-87a0-3e62f9706ee3.png)
+![Screenshot (59)](Profile.jpeg)
 
-![Screenshot (57)](https://user-images.githubusercontent.com/45971568/120926147-8ee69b00-c690-11eb-8717-9b9ec5e24800.png)
+![Screenshot (57)](Home.jpeg)
 
-![Screenshot (58)](https://user-images.githubusercontent.com/45971568/120926080-51820d80-c690-11eb-912a-2bd1cd65e5a9.png)
+![Screenshot (58)](Search.jpeg)
 
 
 A few resources to get you started if this is your first Flutter project:
